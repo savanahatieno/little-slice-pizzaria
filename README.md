@@ -2,7 +2,7 @@
 
 ## Author
 
-[Savanah Atieno ](#)
+[Savanah Atieno ]
 
 ## Description
 Welcome to Little Slice Pizzaria where we fill your tummy with the best pizza in town.We have all the toppings you could ask for and your best crust all in one pizza .Order Now!!
@@ -20,7 +20,7 @@ Welcome to Little Slice Pizzaria where we fill your tummy with the best pizza in
 *cd [To the specific document you want to clone your repository] 
 eg. cd Documents
 
-*git clone {paste your new repository link here}'''https://github.com/savanahatieno/little-slice-pizzaria.git '''
+*git clone {paste your new repository link here}'''github.com/savanahatieno/little-slice-pizzaria.git '''
 
 *cd little-slice-pizzaria
 
