@@ -11,7 +11,7 @@ Welcome to Little Slice Pizzaria where we fill your tummy with the best pizza in
 ![pizzaria-screenshot](https://user-images.githubusercontent.com/62004236/79657791-e8091c00-81bb-11ea-80e6-d5f044f810b1.png)
 
 ## Live Page
-#
+
 
 ## Setup Instruction
 
@@ -20,7 +20,7 @@ Welcome to Little Slice Pizzaria where we fill your tummy with the best pizza in
 *cd [To the specific document you want to clone your repository] 
 eg. cd Documents
 
-*git clone {paste your new repository link here}'''github.com/savanahatieno/little-slice-pizzaria.git '''
+*git clone {paste your new repository link here}
 
 *cd little-slice-pizzaria
 
